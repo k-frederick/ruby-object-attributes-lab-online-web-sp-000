@@ -9,6 +9,6 @@ class Dog
      @breed = dogs_breed
   end
   def 
-    
+
   end
 end
